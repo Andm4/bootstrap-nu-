@@ -12,7 +12,7 @@ h2 {
     color: #3046C5;
     
 }
-header h1 {
+header h1 {   /* header 1 and 2 is to move the title for tasks final pic*/
     margin-left: 35px;
 }
 header h2 {
@@ -37,7 +37,7 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
-hr {
+hr {  /* Hr to create line break under About us, modified to line with <p> */
     margin-top: 4%; 
     margin-bottom: 6%;
     margin-left: 17px; 

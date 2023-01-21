@@ -10,10 +10,14 @@ h3 {
 
 h2 {
     color: #3046C5;
+    
 }
-
+header h1 {
+    margin-left: 35px;
+}
 header h2 {
     color: #CEC8FF;
+    margin-left: 35px;
 }
 
 footer {
@@ -25,6 +29,7 @@ footer {
     padding: 30px;
     background-image: linear-gradient(to right, #5637DD, #3046C5, #60106B);
     color: white;
+
 }
 
 .row-content {
@@ -32,3 +37,8 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+hr {
+    margin-top: 4%; 
+    margin-bottom: 6%;
+    margin-left: 17px; 
+  }
